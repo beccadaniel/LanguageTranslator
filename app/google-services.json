@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "786423496351",
+    "firebase_url": "https://language-translator-877fd.firebaseio.com",
+    "project_id": "language-translator-877fd",
+    "storage_bucket": "language-translator-877fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786423496351:android:09e2ac64bce21f3a",
+        "android_client_info": {
+          "package_name": "com.folashade.languagetranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786423496351-uglud7u5n1954m1pilvkkk1jshbedql0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYruR679pSFyp6aaoToiP8o-R0iGtTZdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786423496351-uglud7u5n1954m1pilvkkk1jshbedql0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
